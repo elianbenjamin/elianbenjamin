@@ -17,7 +17,7 @@
 <p align="left">
   <p align="left">
 
-<a href="(https://www.linkedin.com/in/elian-rivera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elian" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elian-rivera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elian" height="30" width="40" /></a>
 <a href="https://www.instagram.com/elian_rivera18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elian" height="30" width="40" /></a>
 </p>
 
